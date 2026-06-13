@@ -25,4 +25,4 @@ List your contributors here :)
 This project is licensed under the [NAME HERE] License. See the LICENSE.md file for details
 
 ## Acknoledgements
-- [Amazing-FlaskDevCotnainer-Setup](https://github.com/CallenLin/Amazing-FlaskDevContainer-Setup/)
+- [Amazing-FlaskDevCotnainer-Template](https://github.com/CallenLin/Amazing-FlaskDevContainer-Template/)
